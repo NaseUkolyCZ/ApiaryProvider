@@ -9,8 +9,8 @@
     <OutputType>Library</OutputType>
     <RootNamespace>ApiaryProvider</RootNamespace>
     <AssemblyName>ApiaryProvider</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFSharpCoreVersion>4.3.0.0</TargetFSharpCoreVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
     <Name>ApiaryProvider</Name>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -50,6 +50,7 @@
     <None Include="paket.template" />
     <Compile Include="ApiaryRuntime.fs" />
     <Compile Include="Runtime.fs" />
+    <Compile Include="AssemblyInfo.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
