@@ -1,0 +1,23 @@
+type project
+owners
+    Author not set
+authors 
+    Author not set
+projectUrl
+    http://github.com/NaseUkolyCZ/ApiaryProvider
+iconUrl
+    https://raw.githubusercontent.com/NaseUkolyCZ/ApiaryProvider/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/NaseUkolyCZ/ApiaryProvider/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Type provider for Apiary.io http://fsprojects.github.io/ApiaryProvider
+description
+    Type provider for Apiary.io
+
+
